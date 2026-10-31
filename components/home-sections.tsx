@@ -32,7 +32,7 @@ export function HomePage() {
           <div className="button-row"><Link className="button button-primary" href="/facilities">Explore our facilities <ArrowUpRight aria-hidden="true" /></Link><Link className="button button-ghost" href="/locked">Discover the secrets <LockKeyhole aria-hidden="true" /></Link></div>
           <div className="hero-note"><span className="pulse-dot" /> Currently accepting guests who do not reflect in mirrors · werewolves welcome</div>
         </div>
-        <div className="hero-art"><img src="/hotel-transylvania-hero.png" alt="A gothic castle hotel glowing beneath a full moon" /><div className="art-stamp">NO<br />MORTALS<br /><small>BEYOND THIS POINT</small></div><div className="art-caption">THE ESTATE · VIEW FROM THE WEST WING</div></div>
+        <div className="hero-art"><img src="/Website-challenge/hotel-transylvania-hero.png" alt="A gothic castle hotel glowing beneath a full moon" /><div className="art-stamp">NO<br />MORTALS<br /><small>BEYOND THIS POINT</small></div><div className="art-caption">THE ESTATE · VIEW FROM THE WEST WING</div></div>
         <a className="scroll-cue" href="#residents"><ArrowDownRight aria-hidden="true" /> Scroll to descend</a>
       </section>
 

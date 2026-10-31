@@ -1,0 +1,7 @@
+:HL["/Website-challenge/_next/static/chunks/0zvgn_3pqgyag.css","style"]
+:HL["/Website-challenge/hotel-transylvania-hero.png","image"]
+:HL["https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-aLFsfKa3RuEUd6LqMPqU4dFElVdMrX.png","image"]
+:HL["https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-b1M71Nzr47aUvw6cceSsjvsW3VZ7O0.png","image"]
+:HL["https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-3GDNGSOIpvjEM7tXrDxzWq44ZsjBeJ.png","image"]
+1:[["children",{"s":"__PAGE__","h":160}]]
+0:{"b":"U4prQAXAfTbdHeQcKpvzw","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
